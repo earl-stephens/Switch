@@ -22,5 +22,6 @@ public class App {
 			System.out.println("Invalid option.");
 			break;
 		}
+		//No code blocks used with switch
 	}
 }
